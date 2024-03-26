@@ -1,7 +1,7 @@
 Spectral Convolutional Conditional Neural Processes
 ============
 
-This is a PyTorch implementation of SConvCNP as described in our paper [Spectral Convolutional Conditional Neural Processes](https://openreview.net/forum?id=U01a8dNtH3) appeared in ICLR 2024 Workshop on Learning from Time Series For Health.
+This is a PyTorch implementation of SConvCNP as described in our paper [Spectral Convolutional Conditional Neural Processes](https://openreview.net/pdf?id=U01a8dNtH3) appeared in ICLR 2024 Workshop on Learning from Time Series For Health.
 
 
 ## Cite
